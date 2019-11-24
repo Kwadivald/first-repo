@@ -14,7 +14,7 @@ namespace firstRepo
             Console.WriteLine("2. Odejmij liczby");
             Console.WriteLine("3. Pomnóż liczby");
             Console.WriteLine("4. Dziel liczby");
-            
+            Console.WriteLine("5. Wyjście");
         }
     }
 }
