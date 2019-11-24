@@ -24,6 +24,11 @@ namespace firstRepo
                     break;
                 }
                 int a = Convert.ToInt32(Console.ReadLine());
+                int b = Convert.ToInt32(Console.ReadLine());
+                if (menuOption == 1)
+                {
+                    Console.WriteLine(a + b);
+                }
             }
         }
     }
